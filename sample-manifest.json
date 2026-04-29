@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97fc2282-33f8-4182-8a28-c1ede3aed34e",
+  "export_job_id": "afc2bf87-b00e-4e02-a039-5449b3934347",
   "id_short": 482732,
-  "published_at": "2026-04-22T07:33:35Z",
+  "published_at": "2026-04-29T07:40:43Z",
   "repo_name": "all-restaurants-in-duluth-metro-mn-wi-us-sample-482732",
   "sample_asset_name": "beamstation_482732_restaurants-us-duluthmnwi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/482732/beamstation_482732_restaurants-us-duluthmnwi_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "cfc577509eda1e32441c2077a4c4f7d9918a4258ac23e7456f511712142ed08d",
-  "sample_size_bytes": 49914,
-  "total_records": 104
+  "sample_records": 38,
+  "sample_sha256": "b4715369f540fa24d4be29199cb6bb089955444db70097b06ea94da2ca7fd3a2",
+  "sample_size_bytes": 135577,
+  "total_records": 383
 }
